@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://alexmarc.us/MEGT"
 title = "Manette Edible Garden Tour"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -11,10 +11,10 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "green"
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "This is the description of the garden tour!"
+  copyright = "&copy;2018 Manette Neighborhood Coalition"
   sidebarAbout = [
-    "This is the description of the garden tour!."
+    "This is the area where a nice little blurb about the tour would fit right in."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
