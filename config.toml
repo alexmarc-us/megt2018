@@ -41,10 +41,6 @@ googleAnalytics = ""
   url = "gardens/"
 
   [[params.navlinks]]
-  name = "Map"
-  url = "map/"
-
-  [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
 
