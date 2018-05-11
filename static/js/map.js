@@ -43,10 +43,42 @@ var locations = [
     zIndex: 1,
   },
   {
+    title: 'Chicken',
+    content: '<p>This is the content for a chicken marker</p> \
+              <a href="/MEGT/gardens/chickens">More Info</a>',
+    position: {lat: 47.572406, lng: -122.617477},
+    icon: '../img/chicken.png',
+    zIndex: 1,
+  },
+  {
+    title: 'Chicken',
+    content: '<p>This is the content for a chicken marker</p> \
+              <a href="/MEGT/gardens/chickens">More Info</a>',
+    position: {lat: 47.570400, lng: -122.609344},
+    icon: '../img/chicken.png',
+    zIndex: 1,
+  },
+  {
     title: 'Garden',
     content: '<p>This is the content for a garden marker</p> \
               <a href="/MEGT/gardens/garden">More Info</a>',
     position: {lat: 47.569798, lng: -122.613949},
+    icon: '../img/plant.png',
+    zIndex: 1,
+  },
+  {
+    title: 'Garden',
+    content: '<p>This is the content for a garden marker</p> \
+              <a href="/MEGT/gardens/garden">More Info</a>',
+    position: {lat: 47.572861, lng: -122.612891},
+    icon: '../img/plant.png',
+    zIndex: 1,
+  },
+  {
+    title: 'Garden',
+    content: '<p>This is the content for a garden marker</p> \
+              <a href="/MEGT/gardens/garden">More Info</a>',
+    position: {lat: 47.574039, lng: -122.616166},
     icon: '../img/plant.png',
     zIndex: 1,
   },
