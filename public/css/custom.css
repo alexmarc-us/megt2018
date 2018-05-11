@@ -1,1 +1,70 @@
 /* your styles go here */
+body {
+    background: url(../img/chalkboard.jpg);
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 20px;
+}
+
+#sidebar {
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: normal;
+    color: #fff;
+}
+
+.sidebar-heading a:hover {
+    border-bottom: dotted 1px #c3ffc3;
+    color: #c3ffc3;
+    text-decoration: none;
+}
+
+.sidebar-p {
+    color: #fff;
+    font-family: 'IM Fell DW Pica', serif;
+    font-size:1em;
+}
+
+.sidebar-heading {
+    font-size: 1.3em;
+}
+
+.sidebar-heading a {
+    color: #fff;
+}
+
+.sidebar-menu li a {
+    color: #fff;
+    font-weight: normal;
+}
+
+.sidebar-menu li.active:before {
+    color: #c3ffc3;
+}
+
+.sidebar-menu li.active a {
+    color: #c3ffc3;
+    border-bottom: dotted 1px #c3ffc3;
+    font-weight: normal;
+}
+
+.sidebar-menu li:hover a, .sidebar-menu li.hover:before {
+    color: #c3ffc3;
+    font-weight: normal;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: normal;
+}
+
+.copyright {
+    color: #cacaca;
+}
+
+p.social a {
+    color: #cacaca;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}

@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
+  {{ partial "mobile_nav_toggle.html" . }}
+  <div class="row">
+    <div class="col-lg-8">
+      <div class="content-column-content">
+         <h1>{{ .Title }}</h1>
+         {{ .Content }}
+
+         <div id="map"></div>
+         
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7mUdsWkc5hothRkHLWv4SqsVl6KaZeCs&callback=initMap" type="text/javascript"></script>
+        <script src="{{ "js/map.js" | absURL }}" type="text/javascript"></script>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
