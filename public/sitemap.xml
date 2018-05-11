@@ -40,6 +40,10 @@
   </url>
   
   <url>
+    <loc>https://alexmarc.us/MEGT/map/</loc>
+  </url>
+  
+  <url>
     <loc>https://alexmarc.us/MEGT/tags/</loc>
     <priority>0</priority>
   </url>
