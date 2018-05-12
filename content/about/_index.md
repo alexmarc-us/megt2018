@@ -1,6 +1,5 @@
 +++
-date = "2016-11-05T21:05:33+05:30"
-title = "About the Garden Tour"
+title = "About the Manette Edible Garden Tour"
 +++
 
 > This is old copy from 2016 - should be updated for 2018.

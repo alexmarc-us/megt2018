@@ -1,4 +1,4 @@
-baseurl = "https://alexmarc.us/MEGT"
+baseurl = "http://alexmarc.us/MEGT/"
 title = "Manette Edible Garden Tour"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
