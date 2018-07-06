@@ -14,7 +14,7 @@ googleAnalytics = ""
   description = "This is the description of the garden tour!"
   copyright = "&copy;2018 Manette Neighborhood Coalition"
   sidebarAbout = [
-    "This is the area where a nice little blurb about the tour would fit right in."
+    ""
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -28,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  # email = "you@yoursite.com"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -44,14 +44,10 @@ googleAnalytics = ""
   name = "Map"
   url = "map/"
 
-  [[params.navlinks]]
-  name = "Get in touch"
-  url = "contact/"
-
   [params.social]
   facebook      = "https://www.facebook.com/pages/Manette-Edible-Garden-Tour/554597181267282"
   #googleplus    = "full profile url in googleplus"
-  #email         = "email@example.com"
+  email         = "manetteediblegardens@gmail.com"
   #twitter       = "full profile url in twitter"
   #linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"

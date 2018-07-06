@@ -5,6 +5,30 @@ function initMap() {
       styles: mapStyles
     });
 
+    var locations = [
+      {
+        title: 'Check In',
+        content: '<p>Check in for the tour at the Discovery Fellowship.</p> \
+                  <a href="/MEGT/about/">More Info</a>',
+        position: {lat: 47.5728038, lng: -122.6124459},
+        icon: '../img/star.png',
+        zIndex: 1000,
+      },
+      {
+        title: 'Garden',
+        content: '<p>This is the content for a garden marker</p> \
+                  <a href="/MEGT/gardens/garden">More Info</a>',
+        position: {lat: 47.574039, lng: -122.616166},
+        label: {text: 'A', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+    ];
+
     for (var i = 0; i < locations.length; i++) {
       generateMarker(locations[i]);
     }
@@ -24,65 +48,6 @@ function initMap() {
       });
     }
 }
-
-var locations = [
-  {
-    title: 'Check In',
-    content: '<p>This is the content for the check in marker</p> \
-              <a href="/MEGT/about/">More Info</a>',
-    position: {lat: 47.5728038, lng: -122.6124459},
-    icon: '../img/star.png',
-    zIndex: 1000,
-  },
-  {
-    title: 'Chicken',
-    content: '<p>This is the content for a chicken marker</p> \
-              <a href="/MEGT/gardens/chickens">More Info</a>',
-    position: {lat: 47.575332, lng: -122.610953},
-    icon: '../img/chicken.png',
-    zIndex: 1,
-  },
-  {
-    title: 'Chicken',
-    content: '<p>This is the content for a chicken marker</p> \
-              <a href="/MEGT/gardens/chickens">More Info</a>',
-    position: {lat: 47.572406, lng: -122.617477},
-    icon: '../img/chicken.png',
-    zIndex: 1,
-  },
-  {
-    title: 'Chicken',
-    content: '<p>This is the content for a chicken marker</p> \
-              <a href="/MEGT/gardens/chickens">More Info</a>',
-    position: {lat: 47.570400, lng: -122.609344},
-    icon: '../img/chicken.png',
-    zIndex: 1,
-  },
-  {
-    title: 'Garden',
-    content: '<p>This is the content for a garden marker</p> \
-              <a href="/MEGT/gardens/garden">More Info</a>',
-    position: {lat: 47.569798, lng: -122.613949},
-    icon: '../img/plant.png',
-    zIndex: 1,
-  },
-  {
-    title: 'Garden',
-    content: '<p>This is the content for a garden marker</p> \
-              <a href="/MEGT/gardens/garden">More Info</a>',
-    position: {lat: 47.572861, lng: -122.612891},
-    icon: '../img/plant.png',
-    zIndex: 1,
-  },
-  {
-    title: 'Garden',
-    content: '<p>This is the content for a garden marker</p> \
-              <a href="/MEGT/gardens/garden">More Info</a>',
-    position: {lat: 47.574039, lng: -122.616166},
-    icon: '../img/plant.png',
-    zIndex: 1,
-  },
-];
 
 var mapStyles = [
   {
