@@ -1,4 +1,4 @@
-baseurl = "http://alexmarc.us/MEGT/"
+baseurl = "http://manetteneighborhoodcoalition.org/gardentour/"
 title = "Manette Edible Garden Tour"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -12,7 +12,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "green"
   description = "This is the description of the garden tour!"
-  copyright = "&copy;2018 Manette Neighborhood Coalition"
+  copyright = "&copy;2018 <a href='http://manetteneighborhoodcoalition.org'>Manette Neighborhood Coalition</a>"
   sidebarAbout = [
     ""
   ]

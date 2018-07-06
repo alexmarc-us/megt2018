@@ -23,16 +23,14 @@ body {
     font-size:1em;
 }
 
-.sidebar-heading {
-    font-size: 1.3em;
+h1.sidebar-heading {
+    padding: 0 1em;
+    text-align: center;
+    text-decoration: underline;
 }
 
 .sidebar-heading a {
     color: #fff;
-}
-
-.sidebar-content img {
-    padding: 0 1em 1em 0;
 }
 
 .sidebar-menu li a {
@@ -69,6 +67,11 @@ p.social a {
 }
 
 #map {
-    height: 400px;
+    height: 600px;
     width: 100%;
+}
+
+#map-password:disabled {
+    background-color: #00800063;
+    color: white;
 }

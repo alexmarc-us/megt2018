@@ -2,6 +2,10 @@
 title = "Map of the Manette Edible Garden Tour"
 +++
 
-Here is a map of the gardens, interactive on the web and printable for the pamphlet.
+This map will be your digital guide to the Manette Edible Garden Tour!  
 
-This map will display the location of the check-in as a star, and if the password is entered it will show all of the gardens as well.
+Please check in at Discovery Fellowship to receive your tour pamphlet, including the password for unlocking the garden locations on this map.
+
+
+Input the tour password to unlock the garden locations:
+<input placeholder="Password" name="map-password" id="map-password">
