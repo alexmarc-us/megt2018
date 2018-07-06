@@ -15,11 +15,180 @@ function initMap() {
         zIndex: 1000,
       },
       {
-        title: 'Garden',
-        content: '<p>This is the content for a garden marker</p> \
-                  <a href="/MEGT/gardens/garden">More Info</a>',
-        position: {lat: 47.574039, lng: -122.616166},
+        content: '<h3>Discovery Fellowship</h3> \
+                  <p>1305 Ironsides Ave.</p> \
+                  <a href="/MEGT/gardens/a">More Info</a>',
+        position: {lat: 47.5723906, lng: -122.6116917},
         label: {text: 'A', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Chelsea & Alex</h3> \
+                  <p>1323 Hayward Ave.</p> \
+                  <a href="/MEGT/gardens/b">More Info</a>',
+        position: {lat: 47.5729104, lng: -122.61276420000002},
+        label: {text: 'B', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Ellen & Ron</h3> \
+                  <p>1317 Hayward Ave.</p> \
+                  <a href="/MEGT/gardens/c">More Info</a>',
+        position: {lat: 47.5726567, lng: -122.61276700000002},
+        label: {text: 'C', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Tanya & Dave</h3> \
+                  <p>1133 Wheaton Way</p> \
+                  <a href="/MEGT/gardens/d">More Info</a>',
+        position: {lat: 47.5710536, lng: -122.61696699999999},
+        label: {text: 'D', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Jori</h3> \
+                  <p> 1907 E 18th Street</p> \
+                  <a href="/MEGT/gardens/e">More Info</a>',
+        position: {lat: 47.5766484, lng: -122.61789220000003},
+        label: {text: 'E', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Jeff</h3> \
+                  <p> 1728 Perry Ave.</p> \
+                  <a href="/MEGT/gardens/f">More Info</a>',
+        position: {lat: 47.575786, lng: -122.61377950000002},
+        label: {text: 'F', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 3,
+      },
+      {
+        content: '<h3>Carolee</h3> \
+                  <p> 1708 Perry Ave.</p> \
+                  <a href="/MEGT/gardens/g">More Info</a>',
+        position: {lat: 47.5755815, lng: -122.61378379999996},
+        label: {text: 'G', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Paula & Arnie</h3> \
+                  <p> 2103  Perry Ave.</p> \
+                  <a href="/MEGT/gardens/h">More Info</a>',
+        position: {lat: 47.5790037, lng:  -122.61372419999998},
+        label: {text: 'H', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Wendie</h3> \
+                  <p> 2601 E. 22nd St.</p> \
+                  <a href="/MEGT/gardens/i">More Info</a>',
+        position: {lat: 47.5796952, lng:  -122.60982289999998},
+        label: {text: 'I', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Kevin & Maria</h3> \
+                  <p> 2005 Nipsic Ave.</p> \
+                  <a href="/MEGT/gardens/j">More Info</a>',
+        position: {lat: 47.5786411, lng: -122.61106050000001},
+        label: {text: 'J', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Julie & Greg </h3> \
+                  <p> 2619 Terrace St.</p> \
+                  <a href="/MEGT/gardens/k">More Info</a>',
+        position: {lat: 47.5769871, lng: -122.60996820000003},
+        label: {text: 'K', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Tami </h3> \
+                  <p> 2817 Alder St.</p> \
+                  <a href="/MEGT/gardens/l">More Info</a>',
+        position: {lat: 47.5766862, lng: -122.60714989999997},
+        label: {text: 'L', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Deborah & Eugene </h3> \
+                  <p> 2706 E. 16th St.</p> \
+                  <a href="/MEGT/gardens/m">More Info</a>',
+        position: {lat: 47.5744175, lng: -122.60985260000001},
+        label: {text: 'M', color: "white"},
+        icon: {
+          url: '../img/plant.png',
+          size: new google.maps.Size(32, 32),
+          origin: new google.maps.Point(0, 9),
+        },
+        zIndex: 1,
+      },
+      {
+        content: '<h3>Stephanie & TJ </h3> \
+                  <p> 2707 E 16th St.</p> \
+                  <a href="/MEGT/gardens/n">More Info</a>',
+        position: {lat: 47.573811, lng: -122.60911529999998},
+        label: {text: 'n', color: "white"},
         icon: {
           url: '../img/plant.png',
           size: new google.maps.Size(32, 32),
