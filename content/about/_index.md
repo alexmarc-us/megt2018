@@ -6,15 +6,28 @@ title = "About the Manette Edible Garden Tour"
 
 ## Get Inspired!
 
-Recalling the self-sufficiency of previous generations who planted Victory Gardens, Manette edible gardeners are opening their gardens to their neighbors to show techniques for growing food in small urban spaces. Come see many approaches to growing fresh food year round and to restoring the health of your family, your land and the Puget Sound. The tour is a great opportunity for Manette residents to get to know their neighbors, and for other Kitsap residents to get to know Manette. The gardeners page will tell you who will be on the tour, and what types of urban gardening they are up to. The tour is a great way to see different techniques in practice as well as learn about animal husbandry in the city.
+Since 2012, through the volunteer efforts of Manette neighbors, local edible
+gardeners have been opening their gardens and chicken coops to the community.
+Since that first Tour, the Manette Neighborhood Coalition has sponsored the
+Manette Edible Garden Tour the first Saturday in August in even years. The gardens
+feature many techniques for growing fresh food in urban spaces. The Tour is a great
+opportunity for Manette residents to get to know neighbors, and for others to get to
+know Manette. The gardener’s page will tell you who is on this year’s Tour and a
+brief description of each garden. Garden experts such as WSU Master Gardeners and
+West Sound Beekeepers are on site to answer questions and share their expertise.
+The Tour is a great way to see different techniques in practice.
 
-## Our Goals
+For a $5 donation, you will receive a map with descriptions of the gardens and
+access to the map on this website. You will also receive a button uniquely designed
+for each Tour by a local artist.
 
-* Promote awareness of the value of local food.
-* Encourage and support increased local food production.
-* Help develop more food-producing gardens in the community.
+## Our Mission
+
+* Promote awareness of the value of growing your own food.
+* Encourage the use of sustainable gardening methods.
+* Help develop more food-producing gardens in our community.
 * Educate and reach out into the community.
-* Network and help build a healthy community around food.
+* To show what we love about Manette.
 
 Presented by the <a href="http://manetteneighborhoodcoalition.org">Manette Neighborhood Coalition</a>
 in Bremerton, Washington, USA

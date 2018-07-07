@@ -44,6 +44,14 @@ googleAnalytics = ""
   name = "Map"
   url = "map/"
 
+  [[params.navlinks]]
+  name = "Garden Resources"
+  url = "garden-resources/"
+
+  [[params.navlinks]]
+  name = "Chicken Resources"
+  url = "chicken-resources/"
+
   [params.social]
   facebook      = "https://www.facebook.com/pages/Manette-Edible-Garden-Tour/554597181267282"
   #googleplus    = "full profile url in googleplus"
