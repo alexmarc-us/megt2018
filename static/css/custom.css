@@ -5,6 +5,14 @@ body {
     font-size: 20px;
 }
 
+#MEGTLogo {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    z-index: 100;
+    width: 20%;
+}
+
 #sidebar {
     font-family: 'Fredericka the Great', cursive;
     font-weight: normal;
