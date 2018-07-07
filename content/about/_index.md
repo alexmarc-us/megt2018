@@ -2,7 +2,7 @@
 title = "About the Manette Edible Garden Tour"
 +++
 
-<img src="../img/MEGT.png" alt="" class="img-responsive">
+<img src="../img/banner.png" alt="The Manette Edible Garden Tour, August 4th 2018 from 10am to 2pm.  Check in at Discovery Fellowship." class="img-responsive">
 
 ## Get Inspired!
 

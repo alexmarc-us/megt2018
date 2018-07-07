@@ -17,10 +17,22 @@ body {
     text-decoration: none;
 }
 
-.sidebar-p {
+.sidebar-content {
     color: #fff;
+    position: relative;
+    width: 100% !important;
+}
+
+.sidebar-content h3, 
+.sidebar-content h4, 
+.sidebar-content h5 {
+    text-align: center;
+} 
+
+.sidebar-p {
     font-family: 'IM Fell DW Pica', serif;
     font-size:1em;
+    text-align: center;
 }
 
 h1.sidebar-heading {

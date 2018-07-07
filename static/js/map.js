@@ -17,7 +17,7 @@ function initMap() {
 
   var checkinLocation = {
     title: 'Check In',
-    content: '<h4>Check at the Discovery Fellowship.</h4> \
+    content: '<h4>Check at Discovery Fellowship.</h4> \
               <p>1305 Ironsides Ave</p> \
               <a href="/gardentour/about/">More Info</a>',
     position: {lat: 47.5728038, lng: -122.6124459},
