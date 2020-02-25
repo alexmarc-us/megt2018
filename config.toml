@@ -12,11 +12,11 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "green"
   description = "This is the description of the garden tour!"
-  copyright = "&copy;2018 <a href='http://manetteneighborhoodcoalition.org'>Manette Neighborhood Coalition</a>"
+  copyright = "&copy;2020 <a href='http://manetteneighborhoodcoalition.org'>Manette Neighborhood Coalition</a>"
   sidebarAbout = [
-    "<h3 style='color:white'>August 4th, 2018</h3>",
-    "<h4 style='color:white'>10:00am - 2:00pm</h4>",
-    "<h4 style='color:white'>Check in at Discovery Fellowship</h4>",
+    "<h2 style='color:white'>MEGT 2020 is Coming!</h2>",
+    "<h3 style='color:white'>August 1st, 2020</h3>",
+    "<h3 style='color:white'>Check back soon</h3>",
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -33,26 +33,26 @@ googleAnalytics = ""
   # email = "you@yoursite.com"
 
   # Nav links in the side bar
-  [[params.navlinks]]
-  name = "About"
-  url = "about/"
-  home = true
+  #[[params.navlinks]]
+  #name = "About"
+  #url = "about/"
+  #home = true
 
-  [[params.navlinks]]
-  name = "Gardens"
-  url = "gardens/"
+  #[[params.navlinks]]
+  #name = "Gardens"
+  #url = "gardens/"
 
-  [[params.navlinks]]
-  name = "Map"
-  url = "map/"
+  #[[params.navlinks]]
+  #name = "Map"
+  #url = "map/"
 
-  [[params.navlinks]]
-  name = "Garden Resources"
-  url = "garden-resources/"
+  #[[params.navlinks]]
+  #name = "Garden Resources"
+  #url = "garden-resources/"
 
-  [[params.navlinks]]
-  name = "Chicken Resources"
-  url = "chicken-resources/"
+  #[[params.navlinks]]
+  #name = "Chicken Resources"
+  #url = "chicken-resources/"
 
   [params.social]
   facebook      = "https://www.facebook.com/pages/Manette-Edible-Garden-Tour/554597181267282"
