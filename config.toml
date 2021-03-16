@@ -1,4 +1,4 @@
-baseurl = "http://manetteneighborhoodcoalition.org/gardentour/"
+baseurl = "https://manetteneighborhoodcoalition.org/gardentour/"
 title = "Manette Edible Garden Tour"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -14,8 +14,8 @@ googleAnalytics = ""
   description = "This is the description of the garden tour!"
   copyright = "&copy;2020 <a href='http://manetteneighborhoodcoalition.org'>Manette Neighborhood Coalition</a>"
   sidebarAbout = [
-    "<h2 style='color:white'>MEGT 2020 is Coming!</h2>",
-    "<h3 style='color:white'>August 1st, 2020</h3>",
+    "<h2 style='color:white'>MEGT 2021 is Coming!</h2>",
+    "<h3 style='color:white'>August 7th, 2021</h3>",
     "<h3 style='color:white'>Check back soon</h3>",
   ]
   # Contact page
